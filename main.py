@@ -1,32 +1,3 @@
-# class Student:
-#     def __init__(self, age, name, surname, id, girlfriend, friend):
-#         self.age = age
-#         self.name = name
-#         self.surname = surname
-#         self.id = id
-#         self.girlfriend = girlfriend
-#         self.friend = friend
-#
-#     def student_information(self):
-#         """Show information about the student."""
-#         print(f"Age:{self.age}")
-#         print(f"Name:{self.name}")
-#         print(f"Surname:{self.surname}")
-#         print(f"Id:{self.id}")
-#         print(f"GirlFriend:{self.girlfriend}")
-#         print(f"Friend:{self.friend}")
-#
-#
-# oybek = Student("Oybek", 17, "Yuldoshev", 1, "if i say he cry", "I don't know" )
-# baxtiyor = Student("Baxtiyor", 17, "Gopporov", 2, "I don't know", "I don't know" )
-# Muzaffar = Student("Muzaffar", 17, "Ergashev", 3, "secret", "I don't know" )
-# Aburayhon = Student("Aburayhon", 17, "Eshqulov", 4, "Somebody", "I don't know" )
-#
-# oybek.student_information()
-# baxtiyor.student_information()
-# Muzaffar.student_information()
-# Aburayhon.student_information()
-#
 
 
 class Footballer:
